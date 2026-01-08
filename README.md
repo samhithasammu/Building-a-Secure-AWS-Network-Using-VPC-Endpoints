@@ -1,5 +1,5 @@
 # VPC Endpoints
-# -y Samhitha Bhoopesh
+# -by Samhitha Bhoopesh
 **Author:** samhithabbb@gmail.com  
 **Email:** samhithabbb@gmail.com
 
